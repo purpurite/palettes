@@ -1,5 +1,6 @@
 GIMP Palette
 Name: moonlitPurple - Colorscheme
+Columns: 5
 # https://moonlitpurple.ehan.dev/themes/gimpPalette
 255 102 102 redBright5
 204  82  82 redBright4
@@ -36,3 +37,8 @@ Name: moonlitPurple - Colorscheme
  92 153  92 green3
  61 102  61 green2
  31  51  31 green1
+204 255 204 greenGray5
+163 204 163 greenGray4
+122 153 122 greenGray3
+ 82 102  82 greenGray2
+ 
